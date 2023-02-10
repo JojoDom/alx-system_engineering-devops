@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 pwd
 
 
+=======
+#!/bin/bash
+chmod pwd
+>>>>>>> 4be1690d4a28334d1a4fb2f9715eb9894c2bfca9
